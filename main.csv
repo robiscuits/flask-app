@@ -1,0 +1,920 @@
+,Person.Name,Person.Age,Person.Gender,Person.Race,Incident.Date.Full,Factors.Armed,Factors.Threat-Level,Factors.Fleeing,Shooting.Body-Camera
+0,Raymond Cruz,37,Male,Hispanic,2017/07/28,unknown,attack,Car,True
+1,Dennis W. Robinson,48,Male,White,2017/07/29,gun,attack,Car,True
+2,Jashod Arthur Carter,29,Male,African American,2017/07/29,gun,attack,Car,True
+3,Isaiah Tucker,28,Male,African American,2017/07/31,unarmed,attack,Car,True
+4,Robert Savelli,43,Male,White,2017/07/31,gun,attack,Not fleeing,True
+5,Norberto Nieblas Reyes,39,Male,Hispanic,2017/07/31,gun,attack,Not fleeing,True
+6,Dwayne Jeune,32,Male,African American,2017/07/31,knife,attack,Not fleeing,True
+7,Kerry Bradley,37,Male,African American,2017/08/01,unknown,attack,Car,True
+8,Franklin Oden,39,Male,White,2017/08/01,gun,attack,Foot,True
+9,Mikle Eugene Dixon,42,Male,White,2017/08/01,knife,other,Not fleeing,True
+10,Mark Anthony Sanchez,33,Male,Hispanic,2017/08/01,gun,attack,Not fleeing,True
+11,Miguel Salas,25,Male,Hispanic,2017/08/01,gun,attack,Not fleeing,True
+12,Preston Thornton,29,Male,African American,2017/08/02,gun,attack,Not fleeing,True
+13,Jeffrey Barboa,45,Male,Hispanic,2017/08/02,machete,attack,Car,True
+14,Quintas Harris,27,Male,African American,2017/08/02,gun,attack,Not fleeing,True
+15,Phillip Rhoades,28,Male,White,2017/08/02,unknown,other,Car,True
+16,Keith Burkholder,57,Male,White,2017/08/03,gun,attack,Not fleeing,True
+17,Kemonte Cobbs,15,Male,African American,2017/08/03,gun,attack,Foot,True
+18,Aaron Payne,33,Male,White,2017/08/04,gun,attack,Not fleeing,True
+19,Cory Stephens,35,Male,White,2017/08/04,gun,other,Not fleeing,True
+20,TK TK,47,Male,African American,2017/08/04,gun,other,Not fleeing,True
+21,Jeremy Gabrial,31,Male,White,2017/08/04,toy weapon,attack,Not fleeing,True
+22,Melissa Wiseman,36,Female,White,2017/08/04,gun,other,Not fleeing,True
+23,Joseph Miller,54,Male,White,2017/08/04,gun,other,Not fleeing,True
+24,Timmy Wilson,24,Male,White,2017/08/05,gun,attack,Not fleeing,True
+25,Pablo Garcia,35,Male,Hispanic,2017/08/05,knife,attack,Not fleeing,True
+26,Kyle Andrew Lankford,32,Male,White,2017/08/06,knife,other,Foot,True
+27,Danatae Franklin,28,Male,African American,2017/08/06,gun,attack,Foot,True
+28,Winston Espino Sanchez,45,Male,Hispanic,2017/08/07,knife,attack,Not fleeing,True
+29,Jose Ortiz,29,Male,Hispanic,2017/08/07,knife,other,Not fleeing,True
+30,Christopher K. Sales,36,Male,White,2017/08/07,unarmed,other,Car,True
+31,Peter James Robbins,23,Male,White,2017/08/08,gun,attack,Not fleeing,True
+32,Darreon Neal,17,Male,African American,2017/08/08,gun,other,Other,True
+33,Eugene Nelson,20,Male,African American,2017/08/09,unknown,attack,Car,True
+34,Mark P. Coffey,33,Male,White,2017/08/10,gun,attack,unknown,True
+35,Eric Bogart,49,Male,White,2017/08/10,gun,attack,Not fleeing,True
+36,TK TK,0,Male,Unknown,2017/08/11,gun,attack,Not fleeing,True
+37,Tyrease Carlyle,31,Male,African American,2017/08/11,gun,other,Not fleeing,True
+38,Eduardo Navarrete,35,Male,Hispanic,2017/08/12,knife,attack,Not fleeing,True
+39,Christopher Collins,24,Male,White,2017/08/13,gun,other,Not fleeing,True
+40,Roger Burzinski,54,Male,White,2017/08/13,gun,other,Car,True
+41,Carmen William Rongione,41,Male,White,2017/08/13,machete,attack,Foot,True
+42,Patrick Harmon,50,Male,African American,2017/08/13,knife,other,Foot,True
+43,Hussein Hassan,46,Male,African American,2017/08/13,sword,attack,Not fleeing,True
+44,Steven James Young,45,Male,White,2017/08/14,toy weapon,attack,Foot,True
+45,Robert Emmett Bracewell Jr.,20,Male,White,2017/08/14,gun,attack,Not fleeing,True
+46,Herbert Gilbert,37,Male,African American,2017/08/15,undetermined,undetermined,Not fleeing,True
+47,Kenneth Lewis,34,Male,African American,2017/08/16,gun,undetermined,Foot,True
+48,James Midkiff,54,Male,White,2017/08/16,gun,attack,Not fleeing,True
+49,Peter Daniel Grima,65,Male,White,2017/08/17,undetermined,undetermined,Not fleeing,True
+50,Edgar Ramirez Carreto,28,Male,Hispanic,2017/08/17,knife,other,Not fleeing,True
+51,Leroy Frank,60,Male,Unknown,2017/08/18,knife,other,Not fleeing,True
+52,Clarence Belsar III,26,Male,White,2017/08/18,gun,attack,Not fleeing,True
+53,Derrick Rashard Brabham,25,Male,African American,2017/08/18,gun,attack,Not fleeing,True
+54,Thomas Justin Walton,32,Male,White,2017/08/19,Taser,attack,Not fleeing,True
+55,Jonathan Bolger,44,Male,White,2017/08/20,gun,other,Not fleeing,True
+56,Keshawn Wilson,32,Male,African American,2017/08/20,gun,attack,Not fleeing,True
+57,TK TK,0,Male,Unknown,2017/08/20,undetermined,other,Foot,True
+58,Jeffrey Jacobs,42,Male,White,2017/08/21,toy weapon,attack,Not fleeing,True
+59,Dennia Flowers,66,Male,White,2017/08/21,gun,attack,Not fleeing,True
+60,Tyler Whitmire,22,Male,White,2017/08/21,knife,other,Other,True
+61,Nathaniel Richmond,51,Male,African American,2017/08/21,gun,attack,Not fleeing,True
+62,Thomas Selje,64,Male,White,2017/08/21,gun,attack,Not fleeing,True
+63,Kiwi Herring,30,Female,African American,2017/08/22,knife,attack,Not fleeing,True
+64,Henry Rivera Jr.,71,Male,Hispanic,2017/08/22,unknown,attack,Car,True
+65,Robert Earl Adams,30,Male,White,2017/08/22,knife,other,Foot,True
+66,Konstantin Morozov,48,Male,White,2017/08/22,gun,other,Not fleeing,True
+67,Mark Aaron Jensen,56,Male,White,2017/08/22,gun,attack,Not fleeing,True
+68,Ciara Howard,26,Female,White,2017/08/23,gun,other,Not fleeing,True
+69,Colton Puckett,28,Male,White,2017/08/24,gun,other,Not fleeing,True
+70,Isaias Raziel Ochoa,19,Male,Hispanic,2017/08/24,gun,attack,Foot,True
+71,Scott Mayfield,24,Male,African American,2017/08/24,gun,other,Foot,True
+72,Daniel Blyler,44,Male,White,2017/08/25,gun,other,Not fleeing,True
+73,Kristen Ambury,28,Female,White,2017/08/25,gun,undetermined,Not fleeing,True
+74,Charles David Robinson,47,Male,African American,2017/08/25,unarmed,attack,Foot,True
+75,Michael Malik Kawon Lee,18,Male,African American,2017/08/26,gun,attack,Foot,True
+76,William Wilson,26,Male,Hispanic,2017/08/27,gun,attack,Not fleeing,True
+77,Jason Hoops,33,Male,White,2017/08/27,gun,other,Not fleeing,True
+78,Dwayne Martin,34,Male,White,2017/08/27,knife,attack,Foot,True
+79,Kostatinos Sfaelos,62,Male,White,2017/08/28,gun,attack,Foot,True
+80,William Matthew Holmes,24,Male,African American,2017/08/28,undetermined,attack,Car,True
+81,Ricky Ard,55,Male,African American,2017/08/29,baseball bat,other,Not fleeing,True
+82,Larry Moore Miller,68,Male,Unknown,2017/08/29,gun,attack,Not fleeing,True
+83,Joshua Mark Cloud,22,Male,White,2017/08/29,gun,attack,Not fleeing,True
+84,Brandy Caldwell,46,Female,White,2017/08/29,gun,other,Not fleeing,True
+85,Anthony Antonio Ford,27,Male,African American,2017/08/30,unarmed,other,Foot,True
+86,Thomas Daniel Littlecloud,32,Male,Native American,2017/08/30,gun,attack,Car,True
+87,Issac Cervantes,22,Male,Hispanic,2017/08/31,gun,attack,Not fleeing,True
+88,Debi Lynn Thorkelson,54,Female,White,2017/08/31,gun,attack,Not fleeing,True
+89,Michael Battles,32,Male,White,2017/09/01,toy weapon,attack,Not fleeing,True
+90,Roger Helgerson,45,Male,White,2017/09/01,unknown weapon,other,Foot,True
+91,Daniel Gillis,36,Male,White,2017/09/01,knife,other,Foot,True
+92,TK TK,0,Male,Unknown,2017/09/02,gun,attack,Not fleeing,True
+93,Antwon Springer,37,Male,African American,2017/09/03,gun,attack,Not fleeing,True
+94,Henry Stephen Rakoz,47,Male,White,2017/09/03,gun,other,Not fleeing,True
+95,William Porubsky,30,Male,White,2017/09/03,unarmed,attack,Not fleeing,True
+96,Jarvis Hayes,31,Male,African American,2017/09/03,unknown,attack,Car,True
+97,James Fuller,52,Male,White,2017/09/04,chair,attack,Not fleeing,True
+98,Shane Marsh,44,Male,White,2017/09/04,knife,attack,Not fleeing,True
+99,TK TK,0,Female,Unknown,2017/09/05,unknown,attack,Car,True
+100,John Timmons,67,Male,Unknown,2017/09/05,gun,other,Not fleeing,True
+101,Daniel Wheelock,16,Male,White,2017/09/05,knife,attack,Not fleeing,True
+102,Rueben Galindo,29,Male,Hispanic,2017/09/06,gun,other,Not fleeing,True
+103,Timothy Elam,42,Male,White,2017/09/06,unarmed,attack,Not fleeing,True
+104,Miguel Richards,31,Male,African American,2017/09/06,knife,other,Not fleeing,True
+105,Eric Dwan Arnold,41,Male,African American,2017/09/07,gun,attack,Car,True
+106,Billy Joe Elmore,45,Male,White,2017/09/08,gun,attack,Not fleeing,True
+107,Michael Culhane,50,Male,White,2017/09/08,undetermined,other,Not fleeing,True
+108,Ervin Eugene Sweat Jr.,26,Male,African American,2017/09/09,gun,attack,Not fleeing,True
+109,Erick Perez,22,Male,Hispanic,2017/09/10,gun,attack,Not fleeing,True
+110,Joseph Charles Cook,76,Male,White,2017/09/10,gun,attack,Not fleeing,True
+111,Frankie Santos,58,Male,Hispanic,2017/09/10,gun,attack,Not fleeing,True
+112,Spencer Hight,32,Male,White,2017/09/10,gun,attack,Not fleeing,True
+113,Juan Flores,19,Male,Hispanic,2017/09/10,unknown,attack,Not fleeing,True
+114,Thomas Addison,25,Male,Native American,2017/09/11,unknown weapon,other,Foot,True
+115,Brian Patrick Allen,48,Male,White,2017/09/11,gun,attack,Car,True
+116,Vincent Edward Hernandez Jr,39,Male,Hispanic,2017/09/11,toy weapon,attack,Not fleeing,True
+117,Rodolfo Ballardo,31,Male,Hispanic,2017/09/13,gun,attack,Car,True
+118,Gary Joe McCourt,50,Male,White,2017/09/14,knife,attack,Not fleeing,True
+119,Ruben Urbina,15,Male,Hispanic,2017/09/15,crowbar,other,Not fleeing,True
+120,Matthew Michael McTague,48,Male,White,2017/09/15,unknown,attack,Car,True
+121,Jacob Dominguez,32,Male,Hispanic,2017/09/15,unarmed,other,Car,True
+122,Scout Schultz,21,Unknown,White,2017/09/16,knife,other,Not fleeing,True
+123,Eric Alvarez,40,Male,Hispanic,2017/09/17,knife,other,Not fleeing,True
+124,Nicholas K. Perkins,37,Male,White,2017/09/17,gun,attack,Not fleeing,True
+125,Brian Ziro,21,Male,African American,2017/09/17,gun,attack,Foot,True
+126,Jesse VanSipe,33,Male,White,2017/09/18,gun,other,Not fleeing,True
+127,Joshua Stubbs,25,Male,White,2017/09/19,gun and knife,attack,Car,True
+128,Jimme Knight Smith,55,Male,White,2017/09/19,gun,attack,Not fleeing,True
+129,Randall Ross,53,Male,White,2017/09/19,undetermined,undetermined,unknown,True
+130,TK TK,0,Male,Unknown,2017/09/19,gun,attack,Not fleeing,True
+131,David Scott,27,Male,White,2017/09/19,knife,attack,Not fleeing,True
+132,Magdiel Sanchez,35,Male,Hispanic,2017/09/20,pipe,other,Not fleeing,True
+133,Eddie Russell Jr.,25,Male,African American,2017/09/20,gun,other,Not fleeing,True
+134,Haraesheo Rice,31,Male,African American,2017/09/20,gun,attack,Not fleeing,True
+135,Mack Brinkley,70,Male,White,2017/09/21,gun,attack,Car,True
+136,Matthew Wells,40,Male,White,2017/09/21,knife,other,Not fleeing,True
+137,Austin Dunsmore,25,Male,Other,2017/09/21,undetermined,other,Car,True
+138,Jose Felix Reyes,38,Male,Hispanic,2017/09/21,unknown,attack,Car,True
+139,Alexander Ochoa,26,Male,Hispanic,2017/09/22,gun and knife,attack,Not fleeing,True
+140,Dillan Tabares,27,Male,Other,2017/09/22,gun,attack,Not fleeing,True
+141,TK TK,0,Male,White,2017/09/22,undetermined,other,Not fleeing,True
+142,Scott Farnsworth,28,Male,White,2017/09/22,gun,attack,Not fleeing,True
+143,Bryan Wright,40,Male,White,2017/09/22,gun,attack,Not fleeing,True
+144,Scott Michael Chamberlain,44,Male,White,2017/09/22,unknown,attack,Car,True
+145,Damien Murray,39,Male,African American,2017/09/24,gun,other,Not fleeing,True
+146,Jarred Burke,24,Male,White,2017/09/24,gun,attack,Foot,True
+147,Anthony Robinson,32,Male,African American,2017/09/25,gun,attack,Foot,True
+148,Cody O'Bryan,31,Male,White,2017/09/25,Taser,attack,Not fleeing,True
+149,Jeffory Hughes,50,Male,White,2017/09/26,gun,attack,Not fleeing,True
+150,Roger Craig Nielsen,31,Male,White,2017/09/26,gun,attack,Not fleeing,True
+151,Craig A. Johnson,50,Male,White,2017/09/26,gun,other,Not fleeing,True
+152,Demilo Trayuon Hodge,45,Male,African American,2017/09/27,gun,attack,Car,True
+153,Anthony Wallace,44,Male,White,2017/09/27,gun,attack,Car,True
+154,Guy Lynn Scott,48,Male,White,2017/09/27,gun,attack,Not fleeing,True
+155,Dominique Tyrell White,30,Male,Native American,2017/09/28,gun,attack,Foot,True
+156,Michael Bruce Peterson,39,Male,White,2017/09/28,baton,other,Not fleeing,True
+157,Quentin Starke,44,Male,White,2017/09/30,gun,attack,Car,True
+158,Tyrell Dewayne Pinkston,28,Male,African American,2017/09/30,gun,other,Not fleeing,True
+159,Lester Jesus Machado,24,Male,Hispanic,2017/10/01,unknown,attack,Car,True
+160,"Marquis ""Bubba"" Jones",27,Male,African American,2017/10/01,gun,other,Other,True
+161,Anthony Gallo,34,Male,White,2017/10/01,knife,other,Not fleeing,True
+162,Micah McComas,41,Male,White,2017/10/01,unarmed,other,Car,True
+163,George Randall Newman,26,Male,White,2017/10/01,gun,attack,Not fleeing,True
+164,Joshua Lanflisi,38,Male,White,2017/10/01,gun and sword,other,Not fleeing,True
+165,Kevin Anthony Battaglia,33,Male,White,2017/10/02,gun,attack,Not fleeing,True
+166,Marquinton T. Brooks,22,Male,White,2017/10/02,gun,other,Foot,True
+167,John Loaiza,40,Male,White,2017/10/03,pipe,attack,Not fleeing,True
+168,Chad Cochell,34,Male,White,2017/10/04,unknown,other,Not fleeing,True
+169,Sandy Guardiola,48,Female,African American,2017/10/04,gun,attack,Not fleeing,True
+170,Jomekia Minter,37,Male,African American,2017/10/04,gun,attack,Not fleeing,True
+171,Michael Ferrell,67,Male,White,2017/10/04,gun,other,Not fleeing,True
+172,Brandon Lee Bohanon,35,Male,White,2017/10/05,unarmed,other,Not fleeing,True
+173,Cristino Umana-Garcia,29,Male,Hispanic,2017/10/05,knife,other,Not fleeing,True
+174,Phumee Lee,28,Male,Asian,2017/10/05,gun,attack,Not fleeing,True
+175,Johnny Ray Leeds,40,Male,White,2017/10/05,gun,attack,unknown,True
+176,German Ornelas,31,Male,Hispanic,2017/10/05,knife,attack,Not fleeing,True
+177,Matthew Jonathan Luis Hurtado,28,Male,Hispanic,2017/10/06,unknown,undetermined,unknown,True
+178,Dale Sisson,51,Male,White,2017/10/06,gun,attack,Car,True
+179,Garrett Hoose,47,Male,White,2017/10/06,gun,other,Not fleeing,True
+180,Roberto Callejas,35,Male,Hispanic,2017/10/06,knife,attack,Not fleeing,True
+181,Ernesto Padron,52,Male,Hispanic,2017/10/06,gun,other,Foot,True
+182,Samuel David Lanham,25,Male,White,2017/10/07,gun,attack,Car,True
+183,Roberto Avendano,0,Male,Hispanic,2017/10/08,machete,other,Foot,True
+184,Sabrina Ann Garcia,34,Female,Hispanic,2017/10/08,gun,undetermined,Foot,True
+185,Albert Garcia,58,Male,Hispanic,2017/10/08,knife,other,Not fleeing,True
+186,Corey Boykin,24,Male,African American,2017/10/08,gun,other,Not fleeing,True
+187,Cariann Hithon,22,Female,African American,2017/10/08,unknown,attack,Car,True
+188,Glenn Southwood Jr.,46,Male,White,2017/10/08,gun,attack,Not fleeing,True
+189,Daniel James,55,Male,Unknown,2017/10/10,gun,attack,unknown,True
+190,Vincent Dronet,61,Male,White,2017/10/11,unknown,attack,Car,True
+191,Brandon Wade Rucker,43,Male,White,2017/10/11,gun,other,Not fleeing,True
+192,Kristian Martinez,44,Male,Hispanic,2017/10/11,unarmed,attack,Foot,True
+193,John Robert Payne,35,Male,African American,2017/10/12,gun,attack,Foot,True
+194,Sean D. Brady,29,Male,White,2017/10/12,gun,attack,Not fleeing,True
+195,Paul Dolen,57,Male,White,2017/10/13,gun,attack,Not fleeing,True
+196,J.C. Hawkins,42,Male,African American,2017/10/13,gun,attack,Foot,True
+197,Michael David Lopez,44,Male,Hispanic,2017/10/14,undetermined,other,Car,True
+198,Eddie Sanders,25,Male,Unknown,2017/10/14,gun,other,Not fleeing,True
+199,Eric Garrison,20,Male,African American,2017/10/16,gun,other,Foot,True
+200,James Michael Chappell,32,Male,White,2017/10/16,gun,attack,Not fleeing,True
+201,Joshua Clayton Johnson,31,Male,White,2017/10/16,gun,attack,Car,True
+202,Luis David Flores,34,Male,Hispanic,2017/10/16,gun,other,Not fleeing,True
+203,Ezekiel Juan Duran,18,Male,Hispanic,2017/10/16,gun,attack,Not fleeing,True
+204,DeAndre Bethea,24,Male,African American,2017/10/17,unknown,other,Not fleeing,True
+205,Daniel Spear,35,Male,White,2017/10/18,gun,attack,Foot,True
+206,Mitchell Fox,34,Male,White,2017/10/19,gun,other,Not fleeing,True
+207,Matthew Whitley,26,Male,White,2017/10/19,gun,attack,Other,True
+208,Steven Wayne Truex,38,Male,White,2017/10/19,gun,other,Not fleeing,True
+209,Dewboy Lister,55,Male,African American,2017/10/19,unarmed,attack,Foot,True
+210,Jamarco McShann,23,Male,African American,2017/10/20,gun,attack,Not fleeing,True
+211,Jorge Cabrera,54,Male,Unknown,2017/10/20,knife,other,Not fleeing,True
+212,Phillip Joel Trammell,30,Male,White,2017/10/20,knife,attack,Not fleeing,True
+213,Victor Gonzalez,44,Male,Hispanic,2017/10/21,hammer,other,Not fleeing,True
+214,Jason Marble,37,Male,White,2017/10/21,gun,attack,Not fleeing,True
+215,Nicholas Pimentel,27,Male,Hispanic,2017/10/22,unarmed,other,Car,True
+216,Johnny Bonta,43,Male,Native American,2017/10/22,gun,attack,Not fleeing,True
+217,Samantha Hennard,25,Female,White,2017/10/22,gun,attack,Foot,True
+218,Dexter David Anthony Baxter,30,Male,Native American,2017/10/22,unarmed,attack,Not fleeing,True
+219,Matthew David Palaita,35,Male,Hispanic,2017/10/23,gun,attack,Not fleeing,True
+220,Ashleigh Bertucci,31,Female,White,2017/10/23,gun,other,Not fleeing,True
+221,George Gipp,35,Male,Native American,2017/10/23,undetermined,other,Car,True
+222,David Campos,34,Male,Hispanic,2017/10/24,screwdriver,other,Not fleeing,True
+223,Sean Bohinski,37,Male,White,2017/10/24,unarmed,attack,Not fleeing,True
+224,Brandon Uzialko,25,Male,White,2017/10/24,gun,attack,Foot,True
+225,Timothy Earl Jackson,33,Male,African American,2017/10/25,gun,attack,Not fleeing,True
+226,Antonio Levison,33,Male,African American,2017/10/25,gun,attack,Foot,True
+227,Charles L. Wallace,46,Male,Unknown,2017/10/26,unknown,other,Not fleeing,True
+228,James M. Davis,34,Male,White,2017/10/26,gun,attack,Car,True
+229,Sanders Surber,32,Male,White,2017/10/26,gun,attack,Other,True
+230,Jerry Richardson,46,Male,African American,2017/10/27,machete,other,Not fleeing,True
+231,Danny Sanchez,40,Male,Hispanic,2017/10/28,gun and car,attack,Car,True
+232,Lucas DeFord,27,Male,Native American,2017/10/28,gun,other,Car,True
+233,Baltazar Escalona-Baez,17,Male,Hispanic,2017/10/28,knife,other,Car,True
+234,Eric Higgs,46,Male,African American,2017/10/29,gun,attack,Car,True
+235,Mark Bidon,50,Male,White,2017/10/29,gun,attack,Not fleeing,True
+236,Brandon Lee Flowers,41,Male,White,2017/10/29,knife,attack,Not fleeing,True
+237,Kalin Jackson,23,Male,African American,2017/10/29,unknown,other,Not fleeing,True
+238,Robert James Lightfeather,33,Male,Native American,2017/10/30,gun,attack,Not fleeing,True
+239,Jesus Birelas-Contreras,25,Male,Hispanic,2017/10/31,knife,attack,Not fleeing,True
+240,Luvelle Kennon,27,Male,African American,2017/10/31,undetermined,other,Not fleeing,True
+241,Paul Landis Gorden,39,Male,White,2017/10/31,gun,attack,Not fleeing,True
+242,Vincent Hall,22,Male,African American,2017/10/31,gun,attack,Not fleeing,True
+243,Heather Denean Bubrig,37,Female,White,2017/10/31,ax,other,Not fleeing,True
+244,Jamee Almarez,27,Male,Hispanic,2017/11/01,gun,attack,Not fleeing,True
+245,Christopher Jacobs,28,Male,White,2017/11/01,unknown,attack,Car,True
+246,Wallace Jory,56,Male,White,2017/11/02,pitchfork,attack,Not fleeing,True
+247,Jerry Roach,71,Male,White,2017/11/02,gun,attack,Not fleeing,True
+248,TK TK,0,Male,Unknown,2017/11/02,gun,attack,Not fleeing,True
+249,Robert Powell,53,Male,White,2017/11/03,gun and car,attack,Car,True
+250,Jorge Hidalgo,43,Male,Unknown,2017/11/03,machete,other,unknown,True
+251,Marvin Stair,44,Male,Unknown,2017/11/03,gun,attack,Not fleeing,True
+252,Christopher Edward Loftis,39,Male,White,2017/11/03,gun and car,attack,Car,True
+253,Nyung Kyee,56,Male,Asian,2017/11/04,knife,attack,Not fleeing,True
+254,Raymond Davis,24,Male,African American,2017/11/04,gun,other,Not fleeing,True
+255,Michael Wayne Marin,35,Male,White,2017/11/04,gun,attack,unknown,True
+256,Frank Half,30,Male,Native American,2017/11/04,gun,attack,unknown,True
+257,Mason Johnson,31,Male,White,2017/11/04,gun,attack,Not fleeing,True
+258,Augustus Joshua Crawford,20,Male,African American,2017/11/04,gun,undetermined,Foot,True
+259,John Quincy Grady,35,Male,White,2017/11/05,gun,attack,Not fleeing,True
+260,Marylsa Sanchez,31,Female,Hispanic,2017/11/05,unknown,attack,Not fleeing,True
+261,Eddie Lee Patterson,49,Male,African American,2017/11/05,unknown,undetermined,Car,True
+262,Pamela Webber,54,Female,White,2017/11/06,knife,other,Not fleeing,True
+263,TK TK,48,Male,White,2017/11/06,gun,attack,Car,True
+264,Talathia Brooks,32,Female,White,2017/11/07,gun,attack,Not fleeing,True
+265,Jarrett Varnado,35,Male,African American,2017/11/07,gun,attack,Not fleeing,True
+266,James Jacob Bailey,30,Male,White,2017/11/08,gun,attack,Car,True
+267,Roger Raymond York,32,Male,White,2017/11/08,gun,attack,Foot,True
+268,Victor Demetrius Bray,31,Male,White,2017/11/08,gun,other,Not fleeing,True
+269,Jason Ike Pero,14,Male,Native American,2017/11/08,knife,other,Not fleeing,True
+270,Paul Jones,25,Male,African American,2017/11/09,gun,attack,Car,True
+271,Joseph Santos,32,Male,White,2017/11/09,unknown,attack,Car,True
+272,Charles Edwin Nickels,35,Male,White,2017/11/09,gun,attack,Not fleeing,True
+273,Kiser L. Sturgell,27,Male,White,2017/11/09,gun,other,Car,True
+274,Ashley Jenkins,23,Female,White,2017/11/09,unarmed,other,Car,True
+275,Terry A. Dubois,55,Male,White,2017/11/10,gun,attack,Not fleeing,True
+276,Thomas Aikens,43,Male,African American,2017/11/10,knife,attack,Not fleeing,True
+277,Ronald L. Klitzka,62,Male,White,2017/11/10,gun,attack,Not fleeing,True
+278,John Bazemore III,25,Male,African American,2017/11/10,gun,other,Foot,True
+279,TK TK,0,Male,African American,2017/11/10,unknown,other,Not fleeing,True
+280,Matthew Joseph Scudero,50,Male,White,2017/11/10,gun,attack,Not fleeing,True
+281,Shane Jensen,19,Male,White,2017/11/11,gun,attack,Other,True
+282,Phillip Pitts,41,Male,African American,2017/11/11,gun,attack,Not fleeing,True
+283,Eddy Longoria,55,Male,White,2017/11/11,gun,attack,Not fleeing,True
+284,Larry Ruiz-Barreto,19,Male,Hispanic,2017/11/12,unknown,other,Car,True
+285,Cornell Lockhart,67,Male,African American,2017/11/13,knife,attack,Not fleeing,True
+286,Calvin Toney,24,Male,African American,2017/11/13,unarmed,attack,Foot,True
+287,Kevin J. Neal,44,Male,White,2017/11/14,gun,undetermined,unknown,True
+288,Adam Brogdon,23,Male,Unknown,2017/11/14,gun,attack,Foot,True
+289,Keian Jones,51,Male,Unknown,2017/11/14,knife,other,Car,True
+290,Dustin Robert Pigeon,29,Male,Asian,2017/11/15,unarmed,other,Not fleeing,True
+291,Thomas Barclay,48,Male,White,2017/11/15,gun,attack,Car,True
+292,Oscar Anaya,22,Male,Hispanic,2017/11/15,gun,attack,Car,True
+293,TK TK,0,Male,African American,2017/11/15,knife,other,Not fleeing,True
+294,Phillip Van Cise,59,Male,White,2017/11/15,gun,attack,Not fleeing,True
+295,Chester Randolph Ward,68,Male,African American,2017/11/16,gun,attack,Not fleeing,True
+296,Martin Jim,25,Male,White,2017/11/17,unarmed,other,Car,True
+297,Isaac Padilla,23,Male,Hispanic,2017/11/17,unarmed,other,Car,True
+298,Shady Bell,46,Male,African American,2017/11/17,gun,attack,Not fleeing,True
+299,Bijan C. Ghaisar,25,Male,White,2017/11/17,unarmed,undetermined,Car,True
+300,Seth Hardwick,30,Male,White,2017/11/17,gun,attack,Not fleeing,True
+301,Lawrence Hawkins,56,Male,African American,2017/11/18,unarmed,other,Car,True
+302,Preston Bell,24,Male,Native American,2017/11/18,unknown,attack,Car,True
+303,Brian Calvert,18,Male,White,2017/11/18,unknown,attack,Car,True
+304,Geronimo Vicente Santos,34,Male,Unknown,2017/11/19,gun,attack,unknown,True
+305,Jacob McCarty,27,Male,White,2017/11/19,gun,attack,Car,True
+306,Matthew Donald Tobin,26,Male,White,2017/11/19,gun,attack,Not fleeing,True
+307,Seth William Johnson,15,Male,White,2017/11/20,knife,undetermined,Not fleeing,True
+308,Emilio John Cruz Hernandez,26,Male,Hispanic,2017/11/23,gun,other,Foot,True
+309,Nikolas Wanner,32,Male,White,2017/11/23,gun,attack,Not fleeing,True
+310,Rehyen Bost-McMurray,17,Male,African American,2017/11/23,gun,attack,unknown,True
+311,Jackie Germaine Ragland,32,Male,African American,2017/11/23,gun,attack,Not fleeing,True
+312,David Leroy Thelen,43,Male,White,2017/11/23,knife,other,Not fleeing,True
+313,Rocky Miles West,26,Male,White,2017/11/24,gun,attack,Not fleeing,True
+314,Steve Steenhard,51,Male,White,2017/11/24,unknown weapon,undetermined,Not fleeing,True
+315,Nelson F. Rodarte,39,Male,Hispanic,2017/11/25,gun,attack,Not fleeing,True
+316,Johnny Castro,43,Male,Hispanic,2017/11/26,gun,attack,Car,True
+317,William Freddy Carter Jr.,31,Male,White,2017/11/26,gun,attack,Not fleeing,True
+318,Daniel Navarro,22,Male,Hispanic,2017/11/26,knife,undetermined,Not fleeing,True
+319,Christopher Escobedo,26,Male,Unknown,2017/11/27,gun,attack,Car,True
+320,Christian Chavez,40,Male,Hispanic,2017/11/27,gun,attack,Not fleeing,True
+321,Robert Claude Smith,64,Male,White,2017/11/28,unknown,attack,Car,True
+322,Lucas Stone,30,Male,White,2017/11/28,gun,attack,Not fleeing,True
+323,James C. Danforth,59,Male,White,2017/11/28,gun,attack,Foot,True
+324,TK TK,0,Male,Unknown,2017/11/29,undetermined,attack,unknown,True
+325,Aquoness Cathery,24,Male,African American,2017/11/29,gun,other,unknown,True
+326,Rufus Cedric Baker,32,Male,African American,2017/11/30,gun,other,Foot,True
+327,Juan Andres Barillas,37,Male,Hispanic,2017/11/30,gun,other,Car,True
+328,Trent Fondren,33,Male,White,2017/12/01,knife,undetermined,unknown,True
+329,Keita O'Neil,42,Male,African American,2017/12/01,unarmed,other,Car,True
+330,Mario Guevara,37,Male,Hispanic,2017/12/02,knife,other,Not fleeing,True
+331,Christopher Louis Willard,33,Male,White,2017/12/02,gun,attack,Not fleeing,True
+332,Gregory Ray Ham,62,Male,White,2017/12/03,sword,attack,Not fleeing,True
+333,Jeffrey Scott Cantrell,46,Male,White,2017/12/04,gun,attack,Not fleeing,True
+334,Mario Sanabria,69,Male,Hispanic,2017/12/05,machete,other,Not fleeing,True
+335,Johnnie D. Carter,24,Male,African American,2017/12/05,gun,attack,Not fleeing,True
+336,Jean Pedro Pierre,42,Male,African American,2017/12/06,unarmed,attack,Not fleeing,True
+337,Robert Page,71,Male,Unknown,2017/12/06,gun,undetermined,Not fleeing,True
+338,Scott Addison,49,Male,White,2017/12/06,gun,attack,Not fleeing,True
+339,Jesse Cole Shuping,35,Male,White,2017/12/07,gun,attack,Car,True
+340,Kyler Grabbingbear,19,Male,Native American,2017/12/07,undetermined,undetermined,Foot,True
+341,John Souder,40,Male,White,2017/12/07,gun,attack,Car,True
+342,Frederick Douglas Wilburn,34,Male,African American,2017/12/07,unknown,attack,Car,True
+343,Vernchoy Saechao,22,Male,Asian,2017/12/08,gun,attack,Not fleeing,True
+344,Juliun Pitcher,16,Male,White,2017/12/09,gun,attack,Not fleeing,True
+345,James Newman,69,Male,White,2017/12/09,gun,attack,Not fleeing,True
+346,Kyle Zahacefski,24,Male,White,2017/12/10,knife,other,unknown,True
+347,Kyle Anthony Mihecoby,28,Male,Native American,2017/12/10,Taser,attack,Not fleeing,True
+348,Frank Lopez,48,Male,Unknown,2017/12/10,knife,attack,Not fleeing,True
+349,Ira Crawford,26,Male,Unknown,2017/12/10,knife,attack,Not fleeing,True
+350,TK TK,0,Male,Unknown,2017/12/11,gun,attack,Car,True
+351,Stacy Micheletti,51,Male,White,2017/12/11,unknown weapon,other,unknown,True
+352,Marcia Metzger Aiken,50,Female,Unknown,2017/12/12,undetermined,undetermined,unknown,True
+353,TK TK,0,Unknown,Unknown,2017/12/13,unknown,attack,unknown,True
+354,TK TK,0,Male,Unknown,2017/12/13,unknown weapon,other,Not fleeing,True
+355,Zoe Dowdell,20,Male,African American,2017/12/14,unknown,other,Car,True
+356,Clifford Keller,34,Male,White,2017/12/15,gun,attack,Not fleeing,True
+357,Robert Allen Morrison,57,Male,Unknown,2017/12/15,gun,attack,Foot,True
+358,Eric Campbell,0,Male,Unknown,2017/12/15,gun,other,Car,True
+359,Adam Radcliffe,30,Male,Unknown,2017/12/15,unknown,other,Car,True
+360,Michael Wilson,27,Male,Unknown,2017/12/17,unarmed,other,Car,True
+361,TK TK,0,Male,Unknown,2017/12/17,unknown weapon,other,Foot,True
+362,Willy Floyd McCord,52,Male,Unknown,2017/12/17,gun,attack,Not fleeing,True
+363,Spencer Crumbley,52,Male,Unknown,2017/12/17,shovel,attack,Not fleeing,True
+364,Todd A. Stone,48,Male,African American,2017/12/18,hatchet,other,Not fleeing,True
+365,Tom Heath,56,Male,Unknown,2017/12/19,knife,other,Foot,True
+366,TK TK,24,Male,Unknown,2017/12/19,knife,other,Not fleeing,True
+367,TK TK,0,Male,Unknown,2017/12/19,gun,other,Not fleeing,True
+368,Robert Edwards,33,Male,White,2017/12/20,toy weapon,other,Not fleeing,True
+369,Charles McBride,56,Male,Unknown,2017/12/20,gun,attack,Not fleeing,True
+370,Frankie Anchondo,35,Male,Unknown,2017/12/20,unknown,other,Not fleeing,True
+371,TK TK,0,Male,Unknown,2017/12/20,gun,undetermined,Foot,True
+372,Kameron Prescott,6,Male,White,2017/12/21,unarmed,other,Not fleeing,True
+373,Amanda Lenee Jones,30,Female,Unknown,2017/12/21,pipe,other,Foot,True
+374,Jose Aguero,26,Male,Hispanic,2017/12/21,gun,other,Foot,True
+375,Ahmed Aminamin El-Mofty,51,Male,Unknown,2017/12/22,gun,attack,Foot,True
+376,Jeffrey John Golnick,40,Male,White,2017/12/22,gun,attack,Foot,True
+377,Lawrence McClellon,62,Male,Unknown,2017/12/22,gun,other,Not fleeing,True
+378,Jesse Murillo,32,Male,Unknown,2017/12/23,metal object,other,Foot,True
+379,Jesse Champney,26,Male,Unknown,2017/12/23,undetermined,undetermined,Not fleeing,True
+380,Evilio Gomez,46,Male,Hispanic,2017/12/24,machete,other,Not fleeing,True
+381,Cody Dalton Eyre,20,Male,White,2017/12/24,gun,attack,Not fleeing,True
+382,Charlie Joseph Murillo,25,Male,Unknown,2017/12/24,knife,other,Not fleeing,True
+383,Jacob Craig,0,Male,Unknown,2017/12/25,gun,attack,Not fleeing,True
+384,Adrian Escobar,28,Male,Unknown,2017/12/25,gun,attack,Not fleeing,True
+385,Nathaniel Fritz Macalevy,44,Male,Unknown,2017/12/25,gun,attack,Car,True
+386,Jose Garcia,31,Male,Unknown,2017/12/26,undetermined,undetermined,Not fleeing,True
+387,Robert Miller,40,Male,Unknown,2017/12/26,gun,attack,Car,True
+388,James Alan Berrones,46,Male,Unknown,2017/12/26,gun,attack,unknown,True
+389,Jesse Scarsbrook,28,Male,African American,2017/12/26,gun,attack,Car,True
+390,Robo Raikoglo,30,Male,White,2017/12/26,gun,attack,Car,True
+391,Brooke Amelia Camacho,38,Female,Unknown,2017/12/26,gun,attack,Not fleeing,True
+392,Salvador Byassee,34,Male,Unknown,2017/12/26,knife,other,Other,True
+393,Joshua Paul Spottedhorse,36,Male,Native American,2017/12/26,gun,attack,Foot,True
+394,Dennis Plowden,25,Male,African American,2017/12/27,unknown,attack,Car,True
+395,Andrew Finch,28,Male,White,2017/12/27,unarmed,other,Not fleeing,True
+396,Kenneth J. Perna-Rutsky,38,Male,White,2017/12/27,gun,attack,Not fleeing,True
+397,Isaiah Christian Green,20,Male,Unknown,2017/12/28,gun,undetermined,Not fleeing,True
+398,Christopher Baird,37,Male,Unknown,2017/12/28,gun,attack,Not fleeing,True
+399,Corey Bailey,30,Male,African American,2017/12/28,gun,attack,Car,True
+400,Jarvis Lykes,35,Male,Unknown,2017/12/29,undetermined,other,Car,True
+401,Marco Antonio Carlos,31,Male,Hispanic,2017/12/30,gun,attack,Not fleeing,True
+402,Heath Wayne Hodges,36,Male,White,2017/12/30,undetermined,undetermined,unknown,True
+403,Oscar Sandoval,39,Male,Unknown,2017/12/30,gun,other,Not fleeing,True
+404,Matthew Riehl,37,Male,Unknown,2017/12/31,gun,attack,Not fleeing,True
+405,Ernie Macias,32,Male,Unknown,2017/12/31,unknown,other,Car,True
+406,Mark Steven Parkinson,65,Male,White,2018/01/01,gun,attack,Not fleeing,True
+407,Archie Lawhon III,42,Male,White,2018/01/01,gun,attack,Not fleeing,True
+408,Gary Johns,65,Male,White,2018/01/01,gun,attack,Not fleeing,True
+409,Shana Diane Musquiz,30,Female,White,2018/01/02,gun,attack,Not fleeing,True
+410,Ronald Elliot,49,Male,White,2018/01/02,gun,attack,Not fleeing,True
+411,Louis C. Miller,66,Male,White,2018/01/02,knife,attack,Not fleeing,True
+412,Shaleem Tindle,28,Male,African American,2018/01/03,gun,attack,Not fleeing,True
+413,Robert Hansen,27,Male,White,2018/01/04,gun,attack,Not fleeing,True
+414,Brandon O. Cude,31,Male,White,2018/01/04,gun,attack,Not fleeing,True
+415,William B. Oleson,46,Male,White,2018/01/05,gun,attack,Not fleeing,True
+416,Ledarren D. Mixon,28,Male,African American,2018/01/05,gun,attack,Not fleeing,True
+417,Andy Vo,35,Male,Asian,2018/01/05,gun,other,Not fleeing,True
+418,Jackie Harlan Roberts,62,Male,White,2018/01/06,gun,attack,Not fleeing,True
+419,Daniel Saavedra-Arreola,24,Male,Hispanic,2018/01/06,pole and knife,other,Not fleeing,True
+420,Charles Smith Jr.,17,Male,African American,2018/01/06,gun,attack,Not fleeing,True
+421,Jonathan William Leroy,39,Male,White,2018/01/06,baseball bat,other,Not fleeing,True
+422,Richard Rangel,21,Male,White,2018/01/06,gun,attack,Not fleeing,True
+423,Skyler Burnette,21,Male,Native American,2018/01/06,knife,other,Not fleeing,True
+424,Guillermo Mendoza,57,Male,Hispanic,2018/01/06,gun,attack,Not fleeing,True
+425,John Bailon,40,Male,African American,2018/01/06,undetermined,undetermined,unknown,True
+426,Gregory Stough,27,Male,White,2018/01/06,vehicle,other,Car,True
+427,Trayvon Mitchell,38,Male,African American,2018/01/07,gun,other,Foot,True
+428,Alejandro Valdez,27,Male,Hispanic,2018/01/07,knife,other,Not fleeing,True
+429,Richard R. Towler,54,Male,African American,2018/01/07,gun,attack,Not fleeing,True
+430,Tyler Miller,51,Male,White,2018/01/07,unarmed,other,Not fleeing,True
+431,Michael Bender,27,Male,White,2018/01/07,gun,attack,Not fleeing,True
+432,Travis Griffin,20,Male,African American,2018/01/08,gun,attack,Foot,True
+433,TK TK,0,Male,Unknown,2018/01/08,gun,attack,Car,True
+434,Eugene Loftis,25,Male,White,2018/01/08,gun,other,Not fleeing,True
+435,Frank William Pawul,32,Male,White,2018/01/08,gun,attack,Foot,True
+436,Primitivo Macias-Rodriguez,46,Male,Hispanic,2018/01/08,gun,other,unknown,True
+437,Thompson Nguyen,27,Male,Asian,2018/01/09,ax,other,Not fleeing,True
+438,Shalun Dique Smith,21,Male,African American,2018/01/10,unknown weapon,other,Car,True
+439,Jonathan Bennett,23,Male,African American,2018/01/11,gun,attack,Not fleeing,True
+440,Jose Arroyo-Rosales,60,Male,Hispanic,2018/01/11,gun,attack,unknown,True
+441,Justin Coy Adkins,44,Male,White,2018/01/11,gun,attack,Car,True
+442,Jeffrey Alan Burleson,37,Male,White,2018/01/12,gun,attack,Not fleeing,True
+443,Jared S.R. Williams,31,Male,White,2018/01/12,gun,other,Not fleeing,True
+444,Terry Amons,43,Male,African American,2018/01/12,gun,other,Not fleeing,True
+445,Jason D. Whittemore,39,Male,White,2018/01/12,gun,other,Not fleeing,True
+446,Remi Sabbe,54,Male,White,2018/01/12,gun,attack,Car,True
+447,Amanuel Dagebo,22,Male,African American,2018/01/12,gun,other,Not fleeing,True
+448,Juan Valencia,36,Male,Unknown,2018/01/12,gun,attack,Car,True
+449,Joseph Hilton,42,Male,White,2018/01/13,gun,other,Not fleeing,True
+450,Christian Escobedo,22,Male,Hispanic,2018/01/14,gun,other,Not fleeing,True
+451,Robert Martinez,42,Male,Hispanic,2018/01/15,gun,other,Not fleeing,True
+452,Nathan Giffin,32,Male,White,2018/01/16,gun,undetermined,Foot,True
+453,Victor M. Reyes,30,Male,Hispanic,2018/01/16,undetermined,other,Not fleeing,True
+454,Bailey Turner,27,Male,White,2018/01/16,unarmed,attack,Not fleeing,True
+455,Kerry Lee Nield,53,Female,White,2018/01/16,gun,attack,Not fleeing,True
+456,Jordan Keckhut,22,Male,Hispanic,2018/01/17,knife,other,Not fleeing,True
+457,Joseph Edward Haynes,16,Male,White,2018/01/17,unarmed,other,Not fleeing,True
+458,Geraldine Townsend,72,Female,African American,2018/01/17,pellet gun,attack,Not fleeing,True
+459,Jihad Merrick,29,Male,African American,2018/01/17,gun,attack,Car,True
+460,Brian Gregory,34,Male,African American,2018/01/17,gun,other,Car,True
+461,Donte D. Shannon,26,Male,African American,2018/01/17,gun,attack,Foot,True
+462,Kevin Sturgis,31,Male,African American,2018/01/18,gun,attack,Not fleeing,True
+463,Marshall Coleman,58,Male,White,2018/01/19,knife,attack,Not fleeing,True
+464,Shannon Jason Cables,46,Male,White,2018/01/20,gun,attack,Not fleeing,True
+465,Arther McAfee Jr.,61,Male,African American,2018/01/20,unarmed,other,Not fleeing,True
+466,John Albers,17,Male,White,2018/01/20,unknown,other,Car,True
+467,Nicholas Daniel Moore,23,Male,White,2018/01/20,knife,other,Not fleeing,True
+468,Jason Lappe,44,Male,White,2018/01/20,gun,other,Not fleeing,True
+469,Ronald Jay Lawson,46,Male,White,2018/01/21,unknown,other,Car,True
+470,Ilkka O. Hiironen,35,Male,White,2018/01/21,unknown weapon,other,Not fleeing,True
+471,Joshua Dale Prough,36,Male,White,2018/01/22,gun,other,Not fleeing,True
+472,Aaron Olivarez Candanoza,28,Male,Hispanic,2018/01/22,unknown,other,Car,True
+473,Jonathan Duane Atchley,37,Male,White,2018/01/22,unarmed,other,Not fleeing,True
+474,Edward C. Gandy,47,Male,White,2018/01/22,claimed to be armed,other,unknown,True
+475,Joe Delira-Alires,35,Male,Hispanic,2018/01/22,gun,attack,Other,True
+476,Joseph E. Knight,40,Male,White,2018/01/22,gun,other,Car,True
+477,Scott Senior,38,Male,Unknown,2018/01/22,unknown weapon,attack,unknown,True
+478,Ricky Jerome Boyd,24,Male,African American,2018/01/23,BB gun,attack,unknown,True
+479,Alvaro Herrera,18,Male,Hispanic,2018/01/23,pipe,attack,Foot,True
+480,Corey Mobley,38,Male,African American,2018/01/23,unknown,other,Car,True
+481,Shane McVey,54,Male,White,2018/01/23,unknown weapon,other,Foot,True
+482,Humberto Vera-Munoz,27,Male,Hispanic,2018/01/24,unknown weapon,other,Foot,True
+483,David Byron Kidney,62,Male,White,2018/01/24,gun,attack,Not fleeing,True
+484,William Charles Mackenzie,66,Male,White,2018/01/25,gun,attack,Not fleeing,True
+485,Ulises Valladares,47,Male,Hispanic,2018/01/25,unarmed,other,Not fleeing,True
+486,Dustin Gonzales Castillo,19,Male,Hispanic,2018/01/25,knife,attack,Other,True
+487,Steven Hutchins,27,Male,White,2018/01/25,toy weapon,attack,Not fleeing,True
+488,Christopher Eric Giles,23,Male,White,2018/01/26,gun,attack,Car,True
+489,Axell Vivas,42,Male,Hispanic,2018/01/26,gun,other,unknown,True
+490,Nathaniel T. Edwards,43,Male,African American,2018/01/26,unknown,attack,Car,True
+491,Matthew Zimmerman,42,Male,White,2018/01/26,knife,attack,Not fleeing,True
+492,William Pollard,45,Male,African American,2018/01/27,knife,other,Not fleeing,True
+493,Crystalline Barnes,21,Female,African American,2018/01/27,unknown,attack,Car,True
+494,Kirsten Kloppe,43,Female,White,2018/01/27,gun,attack,Not fleeing,True
+495,Anthony S. McDaniel,45,Male,White,2018/01/28,gun,attack,Not fleeing,True
+496,Billy Lewis Rucker,33,Male,African American,2018/01/28,gun,attack,Foot,True
+497,Paul David Johnson,38,Male,White,2018/01/28,gun,attack,Foot,True
+498,Gregory Kocian,33,Male,White,2018/01/28,gun,attack,Car,True
+499,TK TK,46,Male,Hispanic,2018/01/29,knife,attack,Car,True
+500,Michael Hansford,52,Male,African American,2018/01/29,knife,other,Foot,True
+501,Mark Renee Flores,46,Male,Hispanic,2018/01/29,knife,attack,Not fleeing,True
+502,Ricky Leon Rusche,40,Male,White,2018/01/30,unarmed,other,Not fleeing,True
+503,Gilbert Salas,20,Male,Hispanic,2018/01/31,knife,other,Foot,True
+504,Adrian Valdez,39,Male,Hispanic,2018/01/31,knife,other,Not fleeing,True
+505,James M. Burks,35,Male,White,2018/02/01,unarmed,attack,Foot,True
+506,Albert E. Morton,31,Male,African American,2018/02/01,unknown,attack,Not fleeing,True
+507,Daniel O. El,32,Male,African American,2018/02/01,gun,attack,Foot,True
+508,William Young,56,Male,White,2018/02/01,gun,attack,Not fleeing,True
+509,Anthony Joe Williams,37,Male,African American,2018/02/01,gun,attack,Foot,True
+510,Alexander W. Simpson,32,Male,White,2018/02/01,gun,attack,Not fleeing,True
+511,Brett Dontae Bush,28,Male,African American,2018/02/01,knife,other,Other,True
+512,Taylor Schnortz,26,Male,White,2018/02/01,gun,other,unknown,True
+513,Billy Ray Riggs,38,Male,Unknown,2018/02/01,vehicle,undetermined,Not fleeing,True
+514,Charlie Shoupe,27,Male,White,2018/02/02,knife,other,Not fleeing,True
+515,TK TK,0,Male,Unknown,2018/02/02,gun,attack,Not fleeing,True
+516,Mitchell Kitchen,0,Male,African American,2018/02/03,toy weapon,attack,Foot,True
+517,Alan Greenough,43,Male,White,2018/02/03,unarmed,other,Foot,True
+518,Ernie Lizana,49,Male,White,2018/02/03,gun,attack,Foot,True
+519,Anthony Jacob Weber,16,Male,African American,2018/02/04,gun,other,Foot,True
+520,Jason Richard Sienze,35,Male,White,2018/02/05,gun,other,Not fleeing,True
+521,Manuel Zetina,19,Male,Hispanic,2018/02/05,gun,attack,Not fleeing,True
+522,James Benny Hobbs,59,Male,White,2018/02/06,unarmed,other,Not fleeing,True
+523,Alex Duran,29,Male,Hispanic,2018/02/06,knife,other,Not fleeing,True
+524,Paul Mono,65,Male,Unknown,2018/02/06,gun,attack,Not fleeing,True
+525,Cesar Bautista,37,Male,Hispanic,2018/02/06,unknown,other,Car,True
+526,Hugo Steven Selva,22,Male,White,2018/02/07,unknown,attack,Car,True
+527,Lloyd Harris,40,Male,White,2018/02/08,BB gun,other,Not fleeing,True
+528,Ricardo Colon,35,Male,Hispanic,2018/02/08,knife,other,Not fleeing,True
+529,Tierre Guthrie,39,Male,African American,2018/02/09,gun,attack,Not fleeing,True
+530,David Darden,36,Male,African American,2018/02/09,vehicle,other,Car,True
+531,John Hamilton,78,Male,White,2018/02/09,gun,other,Not fleeing,True
+532,Steven Tyler Reed,25,Male,White,2018/02/10,undetermined,undetermined,Foot,True
+533,Troy Jacques,41,Male,White,2018/02/10,gun,other,Not fleeing,True
+534,Sidney T. Richardson,48,Male,African American,2018/02/10,machete,other,Not fleeing,True
+535,Michael Weber,63,Male,White,2018/02/10,gun,attack,Not fleeing,True
+536,Benjamin Gregware,42,Male,White,2018/02/11,gun,other,Not fleeing,True
+537,Mark Daniels,39,Male,African American,2018/02/11,gun,attack,Foot,True
+538,TK TK,0,Male,Unknown,2018/02/11,gun,attack,Not fleeing,True
+539,Raymond Bishop,84,Male,White,2018/02/12,gun,attack,Not fleeing,True
+540,Ronnell Foster,33,Male,African American,2018/02/13,unarmed,attack,Foot,True
+541,Peter Le,52,Male,Asian,2018/02/13,gun and knife,other,Not fleeing,True
+542,Dawn Elika Center,48,Female,White,2018/02/13,gun,other,Car,True
+543,TK TK,0,Male,Unknown,2018/02/14,gun,attack,Foot,True
+544,Jimmy Terry,30,Male,African American,2018/02/14,knife,attack,Not fleeing,True
+545,Travis D. Tucker,29,Male,White,2018/02/14,gun,other,Not fleeing,True
+546,Preston Ray Holloway,27,Male,White,2018/02/14,gun,attack,Other,True
+547,Donald Fulton,41,Male,White,2018/02/14,gun,attack,Not fleeing,True
+548,Arthur Joseph Gonzales,57,Male,Hispanic,2018/02/15,gun,attack,Not fleeing,True
+549,Fordell Hill,27,Male,Native American,2018/02/15,gun,attack,Car,True
+550,Wesley Taylor,58,Male,White,2018/02/15,gun,attack,Not fleeing,True
+551,Tim Berger,59,Male,White,2018/02/16,unknown weapon,undetermined,unknown,True
+552,Odrey Paul Reed,39,Male,White,2018/02/16,undetermined,undetermined,unknown,True
+553,Lamar Green,28,Male,African American,2018/02/17,gun,attack,Not fleeing,True
+554,Ryan Batchelder,28,Male,White,2018/02/17,unknown,other,Not fleeing,True
+555,Nathaniel Montoya,23,Male,Hispanic,2018/02/17,unknown,other,Car,True
+556,Paul Stanley Strickland,55,Male,White,2018/02/17,gun,attack,Not fleeing,True
+557,Ernest Manuel Montelongo,33,Male,Hispanic,2018/02/18,gun,attack,Car,True
+558,Jason Seavers,41,Male,Unknown,2018/02/19,gun,attack,Not fleeing,True
+559,Thomas Vincent Alvarez,23,Male,Hispanic,2018/02/19,gun,attack,Other,True
+560,Lawrence Shaw,45,Male,African American,2018/02/19,knife,other,Foot,True
+561,Glenn Tyndell,37,Male,African American,2018/02/21,gun,attack,Car,True
+562,Lonnie Smith,21,Male,African American,2018/02/21,gun,attack,Foot,True
+563,Michael Andrew Schieffer,27,Male,White,2018/02/21,gun,attack,Car,True
+564,Edward Hallinan,39,Male,African American,2018/02/21,gun,attack,Car,True
+565,Lee Edward Bonner,37,Male,African American,2018/02/21,gun,attack,Foot,True
+566,Darion Baker,22,Male,African American,2018/02/21,undetermined,undetermined,unknown,True
+567,Joshua D. Babb,26,Male,African American,2018/02/22,gun,other,unknown,True
+568,Jacob Uptain,27,Male,White,2018/02/22,gun,other,Foot,True
+569,Mario Dantoni Bass,37,Male,African American,2018/02/23,unarmed,other,Foot,True
+570,Douglas Kemp,58,Male,White,2018/02/23,toy weapon,other,Not fleeing,True
+571,Randall Beymer,62,Male,White,2018/02/24,toy weapon,attack,Not fleeing,True
+572,Haydon Taylor,25,Male,African American,2018/02/25,knife,attack,Not fleeing,True
+573,Douglas Oneyear,36,Male,White,2018/02/25,sword,other,Foot,True
+574,TK TK,0,Male,Hispanic,2018/02/25,gun,attack,Not fleeing,True
+575,Aaron Clifford Fike,27,Male,White,2018/02/26,gun,attack,Foot,True
+576,Joshua Kinnard,37,Male,White,2018/02/26,gun,attack,unknown,True
+577,Ethan Straub,25,Male,White,2018/02/26,gun,attack,Not fleeing,True
+578,Orbel Nazarians,22,Male,White,2018/02/26,machete,other,Not fleeing,True
+579,William Watson,40,Male,African American,2018/02/26,gun,attack,Not fleeing,True
+580,Marlon Smith,29,Male,African American,2018/02/27,gun,attack,Not fleeing,True
+581,Dustin James Case,20,Male,White,2018/02/27,gun,other,Car,True
+582,Curtis Bradley Ware,33,Male,White,2018/02/27,gun,attack,Not fleeing,True
+583,Qawi A. Muhammad,48,Male,African American,2018/02/28,gun,attack,Not fleeing,True
+584,Ernesto Michel,47,Male,Hispanic,2018/02/28,unknown weapon,other,Not fleeing,True
+585,Timothy M. Gray,40,Male,African American,2018/03/01,machete,other,Car,True
+586,Joel Jacobo,29,Male,Hispanic,2018/03/01,unknown weapon,other,Not fleeing,True
+587,Jose D. Gomez Burgos,29,Male,Hispanic,2018/03/02,unknown weapon,other,Not fleeing,True
+588,Stephen Hudak,44,Male,White,2018/03/02,gun,attack,Foot,True
+589,Christopher Race,36,Male,White,2018/03/02,knife,other,Not fleeing,True
+590,TK TK,31,Male,Unknown,2018/03/02,undetermined,undetermined,Not fleeing,True
+591,Erik Dunham,48,Male,White,2018/03/02,gun,other,Not fleeing,True
+592,James Vaughn,49,Male,African American,2018/03/02,unknown weapon,attack,Not fleeing,True
+593,Amanda Alvarez,38,Female,Hispanic,2018/03/03,piece of wood,other,Not fleeing,True
+594,Michael McEntee,70,Male,Unknown,2018/03/03,gun,attack,Not fleeing,True
+595,Marvin McMillian,41,Male,African American,2018/03/03,gun,attack,Not fleeing,True
+596,Angel Luis Ortiz,0,Male,Hispanic,2018/03/04,toy weapon,other,Not fleeing,True
+597,Brandon Kuhlman,28,Male,White,2018/03/05,gun,attack,Not fleeing,True
+598,David Willoughby,33,Male,White,2018/03/05,toy weapon,attack,Not fleeing,True
+599,Ryan L. Smith,44,Male,White,2018/03/05,knife,other,Foot,True
+600,Robert Lewis Yates,65,Male,White,2018/03/05,gun,attack,Not fleeing,True
+601,TK TK,0,Male,Unknown,2018/03/05,gun,attack,unknown,True
+602,Steven Dalton,35,Male,White,2018/03/05,gun,attack,Not fleeing,True
+603,Andrew Rossi,25,Male,White,2018/03/05,knife,other,Not fleeing,True
+604,Michael Kline,40,Male,White,2018/03/06,gun,attack,Not fleeing,True
+605,Michael Reynolds,36,Male,White,2018/03/06,gun,attack,Not fleeing,True
+606,Steven Peters,55,Male,White,2018/03/06,gun,attack,Foot,True
+607,Jesus Delgado-Duarte,19,Male,Hispanic,2018/03/06,gun,attack,Not fleeing,True
+608,Louis Troy Risinger,70,Male,White,2018/03/06,gun,other,Not fleeing,True
+609,James E. Waters,37,Male,African American,2018/03/06,gun,attack,Not fleeing,True
+610,Donald McFarlane,53,Male,White,2018/03/07,gun,attack,Not fleeing,True
+611,Victor Ancira,46,Male,Hispanic,2018/03/07,pick-axe,other,Not fleeing,True
+612,Amelia Huron-Macias,84,Female,White,2018/03/07,unarmed,other,Not fleeing,True
+613,Jamil Harvey,29,Male,African American,2018/03/08,gun,attack,Other,True
+614,TK TK,0,Unknown,Unknown,2018/03/08,undetermined,undetermined,Not fleeing,True
+615,TK TK,0,Male,Unknown,2018/03/08,undetermined,undetermined,Not fleeing,True
+616,TK TK,0,Male,Unknown,2018/03/08,toy weapon,other,Not fleeing,True
+617,Dwight Heckman,27,Male,Native American,2018/03/08,gun,attack,Foot,True
+618,Alkeeta Allena Walker,32,Female,White,2018/03/09,knife,other,Not fleeing,True
+619,Hieu Than,38,Male,Asian,2018/03/09,knife,attack,Not fleeing,True
+620,David Gardea,27,Male,Hispanic,2018/03/09,gun,attack,Foot,True
+621,Daniel Stacey Reynolds,20,Male,African American,2018/03/10,gun,attack,Not fleeing,True
+622,Orion Godbout,45,Male,Hispanic,2018/03/10,gun,attack,Not fleeing,True
+623,Joshua Pawlik,32,Male,White,2018/03/11,gun,attack,Not fleeing,True
+624,Andy Lucero,48,Male,White,2018/03/11,unknown,other,unknown,True
+625,Juan Garcia Alvarez,57,Male,Hispanic,2018/03/11,gun,attack,Not fleeing,True
+626,Corky Lee Oliver,31,Male,White,2018/03/12,gun,other,Not fleeing,True
+627,Decynthia Clements,34,Female,African American,2018/03/12,knife,other,Car,True
+628,Jaden Marsh,16,Male,White,2018/03/12,gun,attack,Foot,True
+629,Kenneth Scott Townley,47,Male,White,2018/03/12,gun,attack,Foot,True
+630,Brisco Tim Woodell,61,Male,White,2018/03/12,gun,attack,Not fleeing,True
+631,Justin Lee Dietrich,32,Male,White,2018/03/12,unknown,attack,Car,True
+632,Michael Ward,46,Male,African American,2018/03/12,baseball bat,attack,Not fleeing,True
+633,Jontell Reedom,27,Male,African American,2018/03/12,baton,attack,Foot,True
+634,Bryan Liles,31,Male,White,2018/03/13,gun,other,Not fleeing,True
+635,Ryan Chapman,26,Male,White,2018/03/14,unknown,other,Foot,True
+636,Shermichael Ezeff,31,Male,African American,2018/03/14,unarmed,attack,Not fleeing,True
+637,TK TK,0,Male,Unknown,2018/03/14,unknown weapon,other,unknown,True
+638,Cameron Hall,27,Male,African American,2018/03/15,unarmed,attack,Not fleeing,True
+639,TK TK,34,Male,Unknown,2018/03/16,undetermined,attack,Not fleeing,True
+640,James Alfonso Vaughn,49,Male,African American,2018/03/16,gun,attack,Not fleeing,True
+641,Mark Clinton Harrell,26,Male,White,2018/03/16,knife,other,Foot,True
+642,William Langfitt,28,Male,White,2018/03/16,knife,other,Not fleeing,True
+643,Bobby Lovin,62,Male,White,2018/03/16,ax,other,unknown,True
+644,Osbaldo Jimenez Ramirez,50,Male,Hispanic,2018/03/17,gun,other,Car,True
+645,TK TK,0,Male,Unknown,2018/03/18,unknown,attack,Car,True
+646,Stephon Clark,23,Male,African American,2018/03/18,unarmed,other,Foot,True
+647,Manuel Borrego,40,Male,Hispanic,2018/03/18,knife,other,Foot,True
+648,Jermaine Massey,35,Male,African American,2018/03/19,knife,other,Not fleeing,True
+649,Quintin J. Horner,50,Male,Native American,2018/03/19,gun,attack,Other,True
+650,Michael Lavelle Holliman,50,Male,White,2018/03/19,crossbow,other,Not fleeing,True
+651,Steven Nguyen,27,Male,Asian,2018/03/19,undetermined,undetermined,Car,True
+652,Joel Pflum,32,Male,White,2018/03/20,gun,attack,Not fleeing,True
+653,Kent Earl Pittman,56,Male,White,2018/03/20,gun,attack,Not fleeing,True
+654,Chance Christopher Haegele,20,Male,White,2018/03/20,gun,attack,Not fleeing,True
+655,Scott Mielentz,56,Male,White,2018/03/20,gun,other,Not fleeing,True
+656,Angel Uolla,18,Male,Hispanic,2018/03/21,knife,attack,Foot,True
+657,Duane Preciado,39,Male,Native American,2018/03/21,gun,attack,Not fleeing,True
+658,Mark Allen Lunn,47,Male,White,2018/03/21,knife,other,Not fleeing,True
+659,Jason M. Raffaeli,25,Male,White,2018/03/21,gun,attack,Not fleeing,True
+660,Jehad Eid,21,Male,Asian,2018/03/21,gun,attack,Not fleeing,True
+661,Santiago Calderon,36,Male,Hispanic,2018/03/22,gun,attack,Foot,True
+662,Danny Thomas,35,Male,African American,2018/03/22,unarmed,attack,Not fleeing,True
+663,Michael Leroy McGinnis,29,Male,White,2018/03/23,gun,attack,Not fleeing,True
+664,Daniel Allen Young,32,Male,Unknown,2018/03/23,undetermined,attack,Not fleeing,True
+665,Steven Cortez,20,Male,Hispanic,2018/03/23,gun,attack,Foot,True
+666,Linus F. Phillip,30,Male,African American,2018/03/23,unknown,attack,Not fleeing,True
+667,Kevin Robles,23,Male,White,2018/03/23,knife,attack,Not fleeing,True
+668,Kevin Hall,40,Male,White,2018/03/23,unknown weapon,other,Car,True
+669,Robert Vega,48,Male,Hispanic,2018/03/23,incendiary device,other,Not fleeing,True
+670,TK TK,0,Male,Unknown,2018/03/23,unknown weapon,other,Not fleeing,True
+671,Nikolai Yakunin,42,Male,White,2018/03/24,unarmed,attack,Not fleeing,True
+672,Zander M. Clark,20,Male,Native American,2018/03/24,knife,other,Foot,True
+673,Kaitlin Marie Demeo,25,Female,White,2018/03/24,gun,attack,Not fleeing,True
+674,Hugo Alvarez,28,Male,Hispanic,2018/03/25,gun,attack,Not fleeing,True
+675,Nathan C. Castle,34,Male,White,2018/03/26,gun,other,Car,True
+676,Juan Carlos Romero,41,Male,Hispanic,2018/03/27,gun,attack,Not fleeing,True
+677,Isaac Michael Scroggie,24,Male,White,2018/03/27,unarmed,attack,Other,True
+678,Evan Bashir,29,Male,White,2018/03/27,unknown weapon,undetermined,Not fleeing,True
+679,Holly Knighton,33,Female,White,2018/03/27,unknown,attack,Car,True
+680,Jose Aaron Gonzalez,44,Male,Hispanic,2018/03/27,gun,attack,Not fleeing,True
+681,William John Dominguez,31,Male,White,2018/03/28,gun and knife,other,Not fleeing,True
+682,Aaron Ibrahem,26,Male,White,2018/03/28,gun,attack,Foot,True
+683,Jesse Kilgus,51,Male,White,2018/03/28,gun,attack,Not fleeing,True
+684,Gerald Richard Johns,64,Male,White,2018/03/28,unknown,attack,Car,True
+685,Robert B. Shaw,29,Male,White,2018/03/28,gun,other,Car,True
+686,George Pappas,61,Male,White,2018/03/28,knife,other,Not fleeing,True
+687,Marco Antonio Saavedra,44,Male,Hispanic,2018/03/29,gun,attack,Other,True
+688,Rodney Toler,39,Male,African American,2018/03/29,gun,attack,Car,True
+689,Christopher Gatewood,39,Male,White,2018/03/29,knife,other,Not fleeing,True
+690,James Decoursey,35,Male,White,2018/03/29,gun,other,Other,True
+691,Edward Van McCrae,60,Male,African American,2018/03/30,gun,other,Not fleeing,True
+692,Timothy Breckenridge,42,Male,White,2018/03/30,toy weapon,other,Not fleeing,True
+693,Jason Birt,27,Male,White,2018/03/31,machete,attack,Not fleeing,True
+694,Nicolas Sedano,21,Male,Hispanic,2018/03/31,unknown,attack,Not fleeing,True
+695,John Wussler,58,Male,White,2018/04/01,gun,other,Foot,True
+696,Cresencio Rodriguez,33,Male,Hispanic,2018/04/01,gun,other,Not fleeing,True
+697,Bobby Hinton,60,Male,African American,2018/04/01,gun,attack,Not fleeing,True
+698,Joseph Walden Johnson,24,Male,White,2018/04/01,gun,attack,Car,True
+699,Timothy Wyatt,41,Male,African American,2018/04/01,gun,attack,Car,True
+700,Brian Bellamy,41,Male,African American,2018/04/01,knife,other,Not fleeing,True
+701,Christopher Hall,34,Male,African American,2018/04/01,gun,attack,Not fleeing,True
+702,Luis Yair Alvarez,23,Male,Hispanic,2018/04/01,knife,other,Not fleeing,True
+703,Donald McCarter,38,Male,White,2018/04/01,knife,other,unknown,True
+704,Jeffrey Louis Parker,49,Male,White,2018/04/03,gun,undetermined,Not fleeing,True
+705,Kelvin Baldwin,30,Male,White,2018/04/04,gun,attack,Foot,True
+706,Deshawn Antonio Carswell,27,Male,African American,2018/04/04,knife,other,Not fleeing,True
+707,Adan Rene Marrero,34,Male,Hispanic,2018/04/04,gun,other,Foot,True
+708,Saheed Vassell,34,Male,African American,2018/04/04,metal pipe,attack,Not fleeing,True
+709,Grady Parks,70,Male,Unknown,2018/04/04,gun,attack,Not fleeing,True
+710,Alexis Stinson,44,Female,White,2018/04/04,gun,attack,Not fleeing,True
+711,Diante Yarber,26,Male,African American,2018/04/05,unknown,attack,Not fleeing,True
+712,Nathaniel Prasad,18,Male,Asian,2018/04/05,gun,attack,Foot,True
+713,Raymond Lyle Bell,59,Male,White,2018/04/05,gun,other,Foot,True
+714,Rafael Ramirez,56,Male,Hispanic,2018/04/05,knife,other,Not fleeing,True
+715,Junior Davis Lopez,22,Male,Hispanic,2018/04/05,gun,attack,Not fleeing,True
+716,Robert Litolff,81,Male,White,2018/04/05,gun,attack,Not fleeing,True
+717,William Frazier,40,Male,White,2018/04/05,gun,attack,Not fleeing,True
+718,Terrance Eppenger,27,Male,African American,2018/04/05,knife,other,Not fleeing,True
+719,Jonathan Erick Alexander,26,Male,Unknown,2018/04/06,gun,attack,Car,True
+720,Antonio Aquino,34,Male,Asian,2018/04/06,gun,attack,Not fleeing,True
+721,Daniel Allen Yielding,23,Male,White,2018/04/06,knife,attack,Foot,True
+722,Mitchell Nelson,36,Male,White,2018/04/06,gun,attack,Not fleeing,True
+723,John A. Elifritz,48,Male,White,2018/04/07,knife,other,Other,True
+724,Larry Siordia,33,Male,White,2018/04/07,gun,attack,Not fleeing,True
+725,Carlos Roman Urias,24,Male,Hispanic,2018/04/08,toy weapon,attack,Not fleeing,True
+726,Juan Markee Jones,25,Male,African American,2018/04/08,unarmed,other,Other,True
+727,Elijah James Smith,20,Male,African American,2018/04/08,undetermined,other,Foot,True
+728,Russell Bowman,45,Male,White,2018/04/08,screwdriver,other,Not fleeing,True
+729,Robert George Issa,23,Male,White,2018/04/09,knife,attack,Not fleeing,True
+730,Zachary Glen Hoven,29,Male,White,2018/04/09,knife,attack,Not fleeing,True
+731,Daniel Joseph Carver,29,Male,White,2018/04/09,gun,other,Foot,True
+732,James Matthew Rogers,34,Male,White,2018/04/09,gun,other,Not fleeing,True
+733,Shawn Michael Hubbard,44,Male,White,2018/04/10,toy weapon,other,Not fleeing,True
+734,Mark Powell,39,Male,Unknown,2018/04/10,gun,other,Not fleeing,True
+735,Grechario Mack,30,Male,African American,2018/04/10,knife,other,Foot,True
+736,Antonino Thomas Gordon,28,Male,White,2018/04/10,unknown,other,Car,True
+737,Betty Lemoine,71,Female,White,2018/04/11,gun,attack,Not fleeing,True
+738,Kenneth Ross,25,Male,African American,2018/04/11,gun,attack,Not fleeing,True
+739,Keith Alan Kent,61,Male,White,2018/04/11,gun,attack,Not fleeing,True
+740,Chad Eric Montgomery,39,Male,White,2018/04/11,machete,other,Not fleeing,True
+741,Kendall Lemoine,50,Male,White,2018/04/11,gun,attack,Not fleeing,True
+742,Dashaun Shepard,0,Male,African American,2018/04/12,gun,attack,Not fleeing,True
+743,Benjamin Evans,23,Male,White,2018/04/12,gun,undetermined,Not fleeing,True
+744,Rumondale Jones,39,Male,African American,2018/04/12,knife,attack,Not fleeing,True
+745,Steven Brooks,45,Male,African American,2018/04/12,gun,attack,Other,True
+746,TK TK,0,Male,Unknown,2018/04/12,glass shard,other,Not fleeing,True
+747,Kenneth Warren Resendez,34,Male,White,2018/04/13,knife,other,Not fleeing,True
+748,Bruce Arnold Allee,31,Male,White,2018/04/13,gun,other,Car,True
+749,Jose Pietri,55,Male,Hispanic,2018/04/14,undetermined,other,Car,True
+750,Andre Lavance Rippy,39,Male,African American,2018/04/14,gun,attack,Other,True
+751,Jessie Thedford,32,Male,White,2018/04/14,unknown,attack,Not fleeing,True
+752,Eduardo Andrade,44,Male,Hispanic,2018/04/14,gun,attack,Not fleeing,True
+753,Petrica Peter Muntean,24,Male,White,2018/04/14,toy weapon,attack,Not fleeing,True
+754,Ruben Stewart,36,Male,Native American,2018/04/15,knife,other,Not fleeing,True
+755,Lonnie Marcel Bowen,41,Male,African American,2018/04/17,screwdriver,attack,Car,True
+756,Sanchez Lowe,25,Male,African American,2018/04/17,unknown,attack,Car,True
+757,Justin Monjay,39,Male,White,2018/04/17,unknown,attack,Car,True
+758,Charles Whitley,40,Male,White,2018/04/17,unknown,attack,Car,True
+759,Justin Oakes,32,Male,White,2018/04/18,knife,attack,Not fleeing,True
+760,William Ray Simcoe,45,Male,White,2018/04/18,gun,attack,Foot,True
+761,Dytadious Mobley,31,Male,African American,2018/04/18,gun,attack,Not fleeing,True
+762,Delorean Pikyavit,32,Male,Native American,2018/04/18,knife,other,Not fleeing,True
+763,David Teneyuque,48,Male,African American,2018/04/18,gun,attack,Not fleeing,True
+764,Lockwood Adrian Gibson,49,Male,White,2018/04/20,unknown,other,Car,True
+765,James Bauduy,48,Male,African American,2018/04/20,undetermined,other,unknown,True
+766,Matthew G. Brown,18,Male,White,2018/04/20,gun,attack,Not fleeing,True
+767,Timothy Wayne Anderson,48,Male,White,2018/04/21,knife,other,unknown,True
+768,Terrence Carlton,25,Male,African American,2018/04/21,gun,other,Foot,True
+769,Matthew Hartman,27,Male,White,2018/04/22,gun,attack,Not fleeing,True
+770,Miguel Escalona Vivas,37,Male,Hispanic,2018/04/22,gun,attack,Foot,True
+771,Jesse Pena,44,Male,Hispanic,2018/04/24,gun,other,Foot,True
+772,Demonjhea Jordan,27,Male,African American,2018/04/24,gun,attack,unknown,True
+773,TK TK,0,Male,Unknown,2018/04/24,gun,attack,Not fleeing,True
+774,TK TK,0,Male,Unknown,2018/04/24,gun,attack,Not fleeing,True
+775,Jese Paul Schlegel,41,Male,White,2018/04/25,gun,attack,Foot,True
+776,Isaac Jackson,42,Male,African American,2018/04/25,knife,attack,Not fleeing,True
+777,Charles Boeh,36,Male,White,2018/04/25,gun,other,Car,True
+778,James D. Warren,89,Male,Unknown,2018/04/25,gun,attack,Not fleeing,True
+779,Carlos Deone High,37,Male,African American,2018/04/25,gun,attack,Not fleeing,True
+780,Anthony Lamar Carter,22,Male,Unknown,2018/04/26,knife,attack,Car,True
+781,Myra Lisa Micalizio,56,Female,White,2018/04/26,unknown,attack,Car,True
+782,Brian Scott Tietze,35,Male,Unknown,2018/04/26,gun,attack,Not fleeing,True
+783,Shukri Ali Said,36,Female,Asian,2018/04/28,knife,other,Not fleeing,True
+784,David Navarro,46,Male,White,2018/04/28,gun,other,Not fleeing,True
+785,Nolberto Hernandez Leon,26,Male,Hispanic,2018/04/28,gun,attack,Not fleeing,True
+786,Joseph L. Hoffman,41,Male,White,2018/04/28,gun,attack,Not fleeing,True
+787,Brandon Busher,38,Male,White,2018/04/29,unarmed,attack,Foot,True
+788,TK TK,0,Male,Unknown,2018/04/29,undetermined,undetermined,Not fleeing,True
+789,Michael Scott Knibbs,47,Male,White,2018/04/29,gun,attack,Not fleeing,True
+790,Joshua Lee Ewing,26,Male,White,2018/04/29,gun,attack,Not fleeing,True
+791,Vigil Wolford,59,Male,Unknown,2018/04/30,knife,undetermined,unknown,True
+792,Abadi Gebregziber,64,Male,African American,2018/04/30,knife,other,Not fleeing,True
+793,TK TK,0,Male,Unknown,2018/05/01,gun,attack,Car,True
+794,TK TK,0,Male,Unknown,2018/05/01,gun,attack,Other,True
+795,Roger Fortner,49,Male,White,2018/05/01,samurai sword,other,Not fleeing,True
+796,Jason Wayne Traversie,44,Male,White,2018/05/02,ax,other,unknown,True
+797,Billy Carson Pike,48,Male,White,2018/05/02,gun,attack,Not fleeing,True
+798,Manuel G. Palacio,27,Male,Hispanic,2018/05/02,gun,other,unknown,True
+799,Timothy Raye Mayfield,67,Male,African American,2018/05/02,gun,attack,Not fleeing,True
+800,Damion Collier,24,Male,African American,2018/05/02,gun,attack,Car,True
+801,Anthony Trujillo,26,Male,Hispanic,2018/05/03,machete,attack,Not fleeing,True
+802,Sean Louis Justin,28,Male,White,2018/05/03,knife,attack,Not fleeing,True
+803,Christopher A. Wolfe,21,Male,White,2018/05/04,gun,attack,Car,True
+804,John Corneil,54,Male,Unknown,2018/05/04,toy weapon,other,Not fleeing,True
+805,Mitchell Simmons,24,Male,White,2018/05/05,gun,attack,Not fleeing,True
+806,Stephen Charles Arthur,51,Male,Unknown,2018/05/05,gun,attack,Foot,True
+807,Matthew Mathison,59,Male,Unknown,2018/05/05,gun,attack,Foot,True
+808,Savannah Hill,21,Female,White,2018/05/05,unknown,attack,Car,True
+809,Dwight Dearth,73,Male,White,2018/05/06,gun,attack,Not fleeing,True
+810,Franklin Robert Vaughn,39,Male,White,2018/05/06,gun,attack,Car,True
+811,Terence Leslie,32,Male,African American,2018/05/06,Taser,attack,Car,True
+812,David P. Wolosin,38,Male,White,2018/05/06,gun,attack,Not fleeing,True
+813,Juan Alberto Silva,32,Male,Hispanic,2018/05/07,unknown,attack,Car,True
+814,Albert Odom,26,Male,White,2018/05/07,gun,other,Not fleeing,True
+815,Kimberly McCann,55,Female,White,2018/05/07,gun,attack,Car,True
+816,David J. Robinson,50,Male,White,2018/05/07,gun,other,Not fleeing,True
+817,Lisa Rivera,49,Female,Hispanic,2018/05/07,gun,other,Not fleeing,True
+818,Peter Boden,48,Male,White,2018/05/07,gun,attack,Not fleeing,True
+819,John Simson,65,Male,White,2018/05/08,gun,attack,Not fleeing,True
+820,Charles Hutchison,37,Male,Unknown,2018/05/08,knife,other,Foot,True
+821,Phillip Cameron Gibson,37,Male,White,2018/05/08,toy weapon,other,Other,True
+822,Thomas Junior Garcia,45,Male,Hispanic,2018/05/08,knife,other,Foot,True
+823,Elliott Reed,33,Male,African American,2018/05/09,gun,attack,Not fleeing,True
+824,Kenneth Carter,46,Male,White,2018/05/10,unknown,attack,Not fleeing,True
+825,Michael E. Hutchman,33,Male,White,2018/05/10,gun,other,Not fleeing,True
+826,TK TK,0,Male,Unknown,2018/05/11,gun,attack,Car,True
+827,Kelly G. Abbott,51,Male,Unknown,2018/05/11,gun,attack,Car,True
+828,Benjamin Lee Sellers,33,Male,White,2018/05/11,knife,other,Not fleeing,True
+829,Barry Freeman,51,Male,White,2018/05/11,gun,attack,Foot,True
+830,Bradley Daniel Webster,52,Male,White,2018/05/11,gun,attack,Not fleeing,True
+831,Jacob T. Eldridge,24,Male,Native American,2018/05/11,knife,attack,Not fleeing,True
+832,Darrell J. Bruffy,55,Male,White,2018/05/12,gun,attack,Car,True
+833,Willie Rogers Marable,28,Male,African American,2018/05/13,unknown weapon,other,Not fleeing,True
+834,Philip Steven McMichael,36,Male,White,2018/05/13,gun,attack,Not fleeing,True
+835,James Brian Kay,54,Male,Unknown,2018/05/13,gun,attack,Not fleeing,True
+836,James Collins,38,Male,Unknown,2018/05/13,gun,other,Not fleeing,True
+837,Anthony Trice,24,Male,African American,2018/05/14,gun,attack,Not fleeing,True
+838,Cody Reynolds,20,Male,White,2018/05/14,unarmed,attack,Not fleeing,True
+839,William N. Derick,54,Male,White,2018/05/14,gun,attack,Not fleeing,True
+840,Rollie J. Davis,53,Male,White,2018/05/14,gun,other,Not fleeing,True
+841,Bob Browning Cruz,36,Male,Hispanic,2018/05/14,gun,attack,Not fleeing,True
+842,Marcus-David L. Peters,24,Male,African American,2018/05/14,unarmed,attack,Car,True
+843,David M. Romansky,34,Male,White,2018/05/15,gun,other,Car,True
+844,Kevin Nickle,59,Male,White,2018/05/16,knife,other,Not fleeing,True
+845,Daniel Timothy Johnson,34,Male,White,2018/05/17,gun,attack,Not fleeing,True
+846,TK TK,0,Male,Unknown,2018/05/18,gun,attack,Foot,True
+847,Reynaldo Pena,29,Male,Hispanic,2018/05/18,unknown weapon,other,unknown,True
+848,Dmitri Bullard,24,Male,White,2018/05/18,hatchet,other,Car,True
+849,Jimmy Alan Moss,77,Male,White,2018/05/19,unknown,attack,unknown,True
+850,Corey Cordova,30,Male,White,2018/05/19,gun,attack,Not fleeing,True
+851,Santiago Evans-Valencia,36,Male,Hispanic,2018/05/19,gun,attack,Not fleeing,True
+852,Bradley J. Grant,36,Male,White,2018/05/20,gun,other,Foot,True
+853,Ray Wyatt,58,Male,White,2018/05/21,gun,attack,Foot,True
+854,Ronald Clinton,47,Male,African American,2018/05/21,unknown,attack,Car,True
+855,Martin Sandejo,49,Male,Hispanic,2018/05/22,knife,other,Not fleeing,True
+856,Makell Meyerin,31,Female,White,2018/05/23,gun,attack,Foot,True
+857,Joshua M. Gomoll,25,Male,White,2018/05/23,knife,other,Not fleeing,True
+858,Claudia Patricia Gomez Gonzalez,0,Female,Hispanic,2018/05/23,unarmed,attack,Not fleeing,True
+859,Dustin D. Odom,30,Male,White,2018/05/24,unarmed,attack,Foot,True
+860,Brett Luengo,33,Male,White,2018/05/24,unarmed,attack,Not fleeing,True
+861,Augustine Oliva,29,Male,White,2018/05/25,unknown,attack,Not fleeing,True
+862,TK TK,0,Male,Unknown,2018/05/25,knife,other,Car,True
+863,Dustin Montano,31,Male,White,2018/05/25,knife,other,Not fleeing,True
+864,Homer Woodroe Tyler,51,Male,White,2018/05/26,gun,other,Not fleeing,True
+865,Raul Rivera,42,Male,Hispanic,2018/05/27,knife,other,Not fleeing,True
+866,Eugene Baylis,67,Male,White,2018/05/27,gun,attack,Not fleeing,True
+867,TK TK,0,Male,Unknown,2018/05/27,knife,other,Not fleeing,True
+868,Michael Glad,23,Male,White,2018/05/28,gun,attack,Car,True
+869,Rabi Brown,34,Male,Native American,2018/05/29,gun,other,Not fleeing,True
+870,Armando Osuna,51,Male,Hispanic,2018/05/29,metal pipe,attack,Not fleeing,True
+871,Zane Anthony James,19,Male,White,2018/05/29,unknown,undetermined,Car,True
+872,Bryan Rodriguez,29,Male,Hispanic,2018/05/30,pick-axe,attack,Foot,True
+873,Juvan Simon,23,Male,African American,2018/05/30,gun,undetermined,Not fleeing,True
+874,Katherine Brazeau,46,Female,White,2018/05/31,knife,other,Not fleeing,True
+875,Jerick Rasheem Gray,42,Male,African American,2018/05/31,knife,attack,Car,True
+876,Andres Estrada,21,Male,Hispanic,2018/06/01,unknown,attack,unknown,True
+877,Renie Cablay,55,Male,Asian,2018/06/01,knife,attack,Not fleeing,True
+878,TK TK,0,Male,White,2018/06/01,knife,other,Not fleeing,True
+879,Gus Tousis,43,Male,African American,2018/06/02,unknown,attack,Car,True
+880,Julio Eduardo Hernandez Mata,32,Male,Hispanic,2018/06/03,undetermined,other,Car,True
+881,TK TK,0,Male,Unknown,2018/06/03,ax,other,Not fleeing,True
+882,Rudy Molina,34,Male,Hispanic,2018/06/03,gun,attack,Car,True
+883,Joshua S. Stanford,40,Male,White,2018/06/04,gun,attack,Foot,True
+884,Abel Guzman,55,Male,Hispanic,2018/06/05,gun,attack,Not fleeing,True
+885,Joshua Nash Bryant,20,Male,White,2018/06/05,gun,other,Not fleeing,True
+886,Maurice Granton,24,Male,African American,2018/06/06,gun,other,unknown,True
+887,Alan Goyano,43,Male,Hispanic,2018/06/06,glass shard,other,unknown,True
+888,Roger Dale Sims,56,Male,White,2018/06/06,gun,attack,Not fleeing,True
+889,Brian Puskas,47,Male,White,2018/06/06,gun,other,Not fleeing,True
+890,Raymon Truitt,28,Male,African American,2018/06/07,gun,attack,Not fleeing,True
+891,Douglas Conner,50,Male,White,2018/06/07,gun,other,Not fleeing,True
+892,Wes Allen,33,Male,White,2018/06/07,gun,attack,Car,True
+893,Leslie Yolanda Salazar,20,Female,White,2018/06/07,knife,other,unknown,True
+894,Todd Gregory,47,Male,White,2018/06/08,gun,attack,Car,True
+895,Michael Renfroe,36,Male,White,2018/06/08,unarmed,undetermined,Not fleeing,True
+896,LaShanda Anderson,36,Female,African American,2018/06/09,unknown,other,Car,True
+897,Timothy Owen,49,Male,White,2018/06/09,gun,attack,Not fleeing,True
+898,Brandon Vieweg,34,Male,White,2018/06/10,unknown weapon,other,Foot,True
+899,Robert Lawrence White,41,Male,African American,2018/06/11,unarmed,other,Not fleeing,True
+900,Nicolas Moncada,29,Male,Hispanic,2018/06/11,knife,other,Car,True
+901,DeNathe M. Guilliford,34,Male,African American,2018/06/12,gun,attack,Car,True
+902,Alexandre J. Aldrich,34,Male,White,2018/06/12,unarmed,other,Not fleeing,True
+903,Marqueese Alston,22,Male,African American,2018/06/12,gun,attack,Not fleeing,True
+904,Chavius Hollis,26,Male,African American,2018/06/12,gun,attack,unknown,True
+905,Stephen Cogelia,32,Male,White,2018/06/12,knife,other,Not fleeing,True
+906,Dillan Shane Ezell,21,Male,White,2018/06/13,toy weapon,attack,Not fleeing,True
+907,TK TK,0,Male,Unknown,2018/06/13,gun,attack,Foot,True
+908,David Arthur,44,Male,White,2018/06/13,gun,attack,Not fleeing,True
+909,TK TK,0,Female,Unknown,2018/06/14,gun,attack,Not fleeing,True
+910,Joseph Villanueva,29,Male,Hispanic,2018/06/14,gun,attack,Foot,True
+911,Terrence White,18,Male,African American,2018/06/14,gun and car,attack,Car,True
+912,Timothy Mosley,33,Male,African American,2018/06/14,gun,attack,Not fleeing,True
+913,Ashley Dean Fulkerson,28,Female,White,2018/06/14,sword,undetermined,Not fleeing,True
+914,Robert A. White,0,Male,White,2018/06/14,gun,other,Not fleeing,True
+915,Marcelo Castellano,40,Male,Hispanic,2018/06/14,gun,other,Not fleeing,True
+916,David L. Hicks,40,Male,White,2018/06/15,undetermined,other,Foot,True
+917,Michael D. Fletcher,53,Male,Unknown,2018/06/16,toy weapon,attack,Not fleeing,True
+918,Dwayne Clyburn,37,Male,African American,2018/06/16,knife,other,Not fleeing,True
